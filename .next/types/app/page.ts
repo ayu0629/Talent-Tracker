@@ -1,4 +1,4 @@
-// File: C:\Users\ACER\Desktop\major-project\app\page.jsx
+// File: C:\Users\ACER\Desktop\Talent Tracker\app\page.jsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
