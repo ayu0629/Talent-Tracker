@@ -5,10 +5,20 @@
         "app/page": {
           "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%5D&__client_imported__=!",
           "async": false
+        },
+        "app/(auth)/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cactions%5C%5Cresume.js%22%2C%5B%7B%22id%22%3A%22008233eb10d66574bd0ffcbb4827d6f12275065264%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%22401b08d48ecf302b2dc914a71ecd4f98c1da4ecfad%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%2C%7B%22id%22%3A%2240377fbe221968b0164a201a1758c74774bd288b05%22%2C%22exportedName%22%3A%22saveResume%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
         }
       },
       "layer": {
-        "app/page": "rsc"
+        "app/page": "rsc",
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/(main)/resume/page": "rsc"
       }
     },
     "7f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037": {
@@ -16,10 +26,20 @@
         "app/page": {
           "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%5D&__client_imported__=!",
           "async": false
+        },
+        "app/(auth)/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cactions%5C%5Cresume.js%22%2C%5B%7B%22id%22%3A%22008233eb10d66574bd0ffcbb4827d6f12275065264%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%22401b08d48ecf302b2dc914a71ecd4f98c1da4ecfad%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%2C%7B%22id%22%3A%2240377fbe221968b0164a201a1758c74774bd288b05%22%2C%22exportedName%22%3A%22saveResume%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
         }
       },
       "layer": {
-        "app/page": "rsc"
+        "app/page": "rsc",
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/(main)/resume/page": "rsc"
       }
     },
     "7fd4e7a67e4bcbb6a5646d787dd48556d95b25122c": {
@@ -27,10 +47,20 @@
         "app/page": {
           "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%5D&__client_imported__=!",
           "async": false
+        },
+        "app/(auth)/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cactions%5C%5Cresume.js%22%2C%5B%7B%22id%22%3A%22008233eb10d66574bd0ffcbb4827d6f12275065264%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%22401b08d48ecf302b2dc914a71ecd4f98c1da4ecfad%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%2C%7B%22id%22%3A%2240377fbe221968b0164a201a1758c74774bd288b05%22%2C%22exportedName%22%3A%22saveResume%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
         }
       },
       "layer": {
-        "app/page": "rsc"
+        "app/page": "rsc",
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/(main)/resume/page": "rsc"
       }
     },
     "7f6022bfd03c55cf468896544a4306cfb14d1cdfd1": {
@@ -38,10 +68,53 @@
         "app/page": {
           "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%7B%22id%22%3A%227f6022bfd03c55cf468896544a4306cfb14d1cdfd1%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%7D%5D%5D%5D&__client_imported__=true!",
           "async": false
+        },
+        "app/(auth)/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%7B%22id%22%3A%227f6022bfd03c55cf468896544a4306cfb14d1cdfd1%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(main)/resume/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%7B%22id%22%3A%227f6022bfd03c55cf468896544a4306cfb14d1cdfd1%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
         }
       },
       "layer": {
-        "app/page": "action-browser"
+        "app/page": "action-browser",
+        "app/(auth)/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/(main)/resume/page": "action-browser"
+      }
+    },
+    "008233eb10d66574bd0ffcbb4827d6f12275065264": {
+      "workers": {
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cactions%5C%5Cresume.js%22%2C%5B%7B%22id%22%3A%22008233eb10d66574bd0ffcbb4827d6f12275065264%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%22401b08d48ecf302b2dc914a71ecd4f98c1da4ecfad%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%2C%7B%22id%22%3A%2240377fbe221968b0164a201a1758c74774bd288b05%22%2C%22exportedName%22%3A%22saveResume%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/resume/page": "rsc"
+      }
+    },
+    "401b08d48ecf302b2dc914a71ecd4f98c1da4ecfad": {
+      "workers": {
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cactions%5C%5Cresume.js%22%2C%5B%7B%22id%22%3A%22008233eb10d66574bd0ffcbb4827d6f12275065264%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%22401b08d48ecf302b2dc914a71ecd4f98c1da4ecfad%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%2C%7B%22id%22%3A%2240377fbe221968b0164a201a1758c74774bd288b05%22%2C%22exportedName%22%3A%22saveResume%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/resume/page": "rsc"
+      }
+    },
+    "40377fbe221968b0164a201a1758c74774bd288b05": {
+      "workers": {
+        "app/(main)/resume/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f1922cd55d585dfacaa81446d4958369f36f7b549%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%2C%7B%22id%22%3A%227f27d1b8fb77f5d4203a5e5cc00587932fb3bbf037%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fd4e7a67e4bcbb6a5646d787dd48556d95b25122c%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CACER%5C%5CDesktop%5C%5CTalent%20Tracker%5C%5Cactions%5C%5Cresume.js%22%2C%5B%7B%22id%22%3A%22008233eb10d66574bd0ffcbb4827d6f12275065264%22%2C%22exportedName%22%3A%22getResume%22%7D%2C%7B%22id%22%3A%22401b08d48ecf302b2dc914a71ecd4f98c1da4ecfad%22%2C%22exportedName%22%3A%22improveWithAI%22%7D%2C%7B%22id%22%3A%2240377fbe221968b0164a201a1758c74774bd288b05%22%2C%22exportedName%22%3A%22saveResume%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/resume/page": "rsc"
       }
     }
   },
